@@ -1,4 +1,4 @@
-# Sunny Pines Golf
+# Pin High Golf
 
 A playable 3D golf game that runs in a desktop or mobile browser. Two 18-hole courses, three golfers,
 three-click swing, stroke play scoring with penalty-area, lost-ball and unplayable-ball relief,
